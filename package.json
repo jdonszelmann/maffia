@@ -1,0 +1,23 @@
+{
+  "name": "maffia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonay2000/maffia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonay2000/maffia/issues"
+  },
+  "homepage": "https://github.com/jonay2000/maffia#readme",
+  "description": ""
+}
